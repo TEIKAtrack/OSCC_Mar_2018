@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rihards/Desktop/OSCC_Mar_2018/oscc-joystick-commander/oscc/firmware/build/brake/kia_soul_petrol/utils/release_pressure/brake-utils-release-pressure_release_pressure.ino.cpp
+Arduino.h
+/home/rihards/Desktop/OSCC_Mar_2018/oscc-joystick-commander/oscc/firmware/build/brake/kia_soul_petrol/utils/release_pressure/Arduino.h
+
